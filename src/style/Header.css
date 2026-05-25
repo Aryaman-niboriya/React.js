@@ -1,0 +1,21 @@
+.head{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.head__title{
+    font-size: 24px;
+    margin: 0;
+    background: #b01111;
+    color: rgb(16, 6, 1);
+}
+.head__action{
+    background: #b01111;
+    color: rgb(52, 24, 10);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
